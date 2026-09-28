@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pineapple",
+      "email": "pineapple@gmail.com",
+      "description": "The pineapple (Ananas comosus) is a tropical plant with an edible fruit and is one of the most economically significant plants in the family Bromeliaceae.",
+      "avatar": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba",
+      "hobby": "Gardening"
+    },
+    {
+      "id": 2,
+      "name": "Cherry",
+      "email": "cherry@gmail.com",
+      "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe or stone fruit.",
+      "avatar": "https://images.unsplash.com/photo-1528821128474-27f963b062bf",
+      "hobby": "Cooking"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "email": "orange@gmail.com",
+      "description": "Orange is a citrus fruit that is widely grown in tropical and subtropical regions.",
+      "avatar": "https://images.unsplash.com/photo-1552841847-0e031d33a283",
+      "hobby": "Traveling"
+    },
+    {
+      "id": 4,
+      "name": "Avocado",
+      "email": "avocado@gmail.com",
+      "description": "Avocado is a fruit known for its creamy texture and nutritional value.",
+      "avatar": "https://images.unsplash.com/photo-1519162808019-7de1683fa2ad",
+      "hobby": "Photography"
+    },
+    {
+      "id": 5,
+      "name": "Strawberry",
+      "email": "strawberry@gmail.com",
+      "description": "Strawberry is a widely cultivated fruit known for its bright red color and sweet flavor.",
+      "avatar": "https://images.unsplash.com/photo-1560155069-ad79768f2666",
+      "hobby": "Reading"
+    },
+    {
+      "id": 6,
+      "name": "Apple",
+      "email": "apple@gmail.com",
+      "description": "Apple is a sweet fruit that is cultivated worldwide and comes in many different varieties.",
+      "avatar": "https://images.unsplash.com/photo-1600423115367-87ea7661688f",
+      "hobby": "Music"
+    },
+    {
+      "id": 7,
+      "name": "Pomegranate",
+      "email": "pomegranate@gmail.com",
+      "description": "Pomegranate is a fruit containing many edible seeds surrounded by juicy flesh.",
+      "avatar": "https://images.unsplash.com/photo-1530730459653-e0edd4c6072e",
+      "hobby": "Swimming"
+    },
+    {
+      "id": 8,
+      "name": "Papaya",
+      "email": "papaya@gmail.com",
+      "description": "Papaya is a tropical fruit with soft orange flesh and numerous black seeds.",
+      "avatar": "https://images.unsplash.com/photo-1517282009859-f000ec3b26fe",
+      "hobby": "Cooking"
+    },
+    {
+      "id": 9,
+      "name": "Pear",
+      "email": "pear@gmail.com",
+      "description": "Pear is a sweet fruit with a distinctive shape and a soft, juicy texture.",
+      "avatar": "https://images.unsplash.com/photo-1601876819102-99560f772713",
+      "hobby": "Drawing"
+    },
+    {
+      "id": 10,
+      "name": "Blueberry",
+      "email": "blueberry@gmail.com",
+      "description": "Blueberry is a small blue or purple fruit that is commonly used in desserts and beverages.",
+      "avatar": "https://images.unsplash.com/photo-1600046438510-46961a84f4b2",
+      "hobby": "Cycling"
+    }
+  ]
+}
